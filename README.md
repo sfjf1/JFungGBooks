@@ -25,15 +25,15 @@ Please enter an option to proceed
 ```
 
 # Use Case 1 (First time running)
-a. Enter *1* at the prompt to "Search books"
-b. Enter keywords (e.g. Digital Photography) at the second prompt
-c. Enter *2* to "Add book to bookshelf"
-d. Enter the bookID of one book to the prompt (bookID is the first left column)
-e. Enter *4* to "Display books from bookshelf"
-f. Enter *5* to "Save bookshelf to disk"
-g. Repeat *c* to *f* to add another book to bookshelf
+1. Enter *1* at the prompt to "Search books"
+2. Enter keywords (e.g. Digital Photography) at the second prompt
+3. Enter *2* to "Add book to bookshelf"
+4. Enter the bookID of one book to the prompt (bookID is the first left column)
+5. Enter *4* to "Display books from bookshelf"
+6. Enter *5* to "Save bookshelf to disk"
+7. Repeat steps *3* to *6* to add another book to bookshelf
 
 # Use Case 2 (Working with existing bookshelf)
-a. Enter *3* to "Load book from bookshelf"
-b. Repeat steps *a* to *f* in Use Case 1 to find books and add to bookshelf.
+1. Enter *3* to "Load book from bookshelf"
+2. Repeat steps *1* to *6* in Use Case 1 to find books and add to bookshelf.
 
